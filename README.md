@@ -1,2 +1,3 @@
 # FEAR-AI
-python code that recognize the face and marks the attendance in schools and colleges
+PYTHON CODE THAT RECOGNIZES THE FACE AND MARKS THE ATTENDANCE IN SCHOOLS AND COLLEGES
+
